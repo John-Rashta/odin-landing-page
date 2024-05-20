@@ -1,0 +1,10 @@
+.rounded {
+    border-radius: 7px;
+}
+
+.button {
+    background-color: #3882F6;
+    color: white;
+    padding: 6px 25px;
+    font-weight: bold;
+}
