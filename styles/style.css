@@ -159,3 +159,39 @@ a {
     font-size: 25px;
     margin-right: 30px;
 }
+
+/* section 4 start */
+
+.section-4 {
+    padding: 150px 300px;
+}
+
+.s4main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    color: white;
+    padding: 65px 150px;
+    border-radius: 10px;
+}
+
+.s4text {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.s4call {
+    border-color: white;
+
+}
+
+.s4head {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.s4bottom {
+    font-size: 18px;
+}
